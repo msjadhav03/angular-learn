@@ -1,7 +1,8 @@
 # Angular
 
+
 <p>  
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" height="160">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" height="160" width="80%">
 </p>
 
 1. [Introduction](#introduction)
