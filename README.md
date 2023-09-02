@@ -2,7 +2,7 @@
 
 
 <p>  
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" height="160" width="80%">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" height="260" width="1000%">
 </p>
 
 1. [Introduction](#introduction)
